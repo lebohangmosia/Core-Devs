@@ -151,7 +151,7 @@ a{
   */
   #message p {
     padding: 10px 35px;
-    font-size: 10px;
+    font-size: 14px;
   }
   
   /* Add a green text color and a checkmark when the requirements are right */
@@ -167,7 +167,7 @@ a{
   
   /* Add a red text color and an "x" icon when the requirements are wrong */
   .invalid {
-    color: red;
+    color: white;
   }
   
   .invalid:before {
